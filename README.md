@@ -1,4 +1,4 @@
-![banner](https://github.com/AyeshaAnwar786/AyeshaAnwar786/blob/main/banner)
+![women](https://github.com/AyeshaAnwar786/AyeshaAnwar786/blob/main/woman)
 
 <h1 align="center">Hi 👋, I'm Ayesha Anwar</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan.</h3>
